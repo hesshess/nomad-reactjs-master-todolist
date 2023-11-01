@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/nomad-reactjs-master-todolist/static/js/main.512a5f3c.js",
+    "index.html": "/nomad-reactjs-master-todolist/index.html",
+    "main.512a5f3c.js.map": "/nomad-reactjs-master-todolist/static/js/main.512a5f3c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.512a5f3c.js"
+  ]
+}
